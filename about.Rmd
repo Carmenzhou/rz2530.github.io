@@ -1,5 +1,5 @@
 ---
-title: "My awesome website"
+title: "Resume"
 output: 
   html_document:
     toc: true
@@ -7,3 +7,47 @@ output:
 ---
 
 # This is Carmen's resume
+
+## EDUCATION
+* Undergraduate: New York University Shanghai, Shanghai, China
+Major: Mathematics and pursuing Data Science major
+Math Courses: complex variable, honor analysis, Discrete Mathematics, Networks and Dynamic, Mathematics of Finance, Numerical Analysis, mathematical modelling on stochastic processing and stochastic integral
+Data Science Courses: Data Structure, Econometrics, Databases, algorithm, machine learning
+
+*Master: Columbia University, New York, US
+Major: Biostatistics
+Courses: Data Science, Probability, Biostatistics Methods, Into to Epidemiology, Into to Public Health.
+
+##RESEARCH EXPERIENCE
+###Identifying five prime UTR from massive data
+Advisor: Zhenhai Zhang, professor at medical school, Southern Medical University
+
+• Developed a program to identify V gene and Leader gene to measure length of five prime UTR
+• Collected statistical data of specific antibody sequences using bio-python.
+• Analyzed more than 30,000 sequences, finding out the length of five prime UTR is in normal
+distribution.
+
+###Analyzing emotions in live comments
+Advisor: Renyu Zhang, Assistant Professor of Operations Management, NYU Global Network
+
+• Applied Nature Language Processing (NLP) to analyze on-screen live comments on Bilibili (Chinese version of Twitch) to evaluate the audience's emotional responses.
+• Used web crawler to capture live comments and their time stamps from the website
+• Selected cyber slang from large amount of comments and assigned numerical values to
+emotional words based on repeated experiments.
+• Calculated the values of the emotional responses based on live comments as a description of audience's instantaneous reactions
+
+###Finding the area of para-carcinoma tissue
+Advisor: Yanxin Luo, Professor at medical school, SYSU
+
+• Established a LASSO regression model to identify the area of para-carcinoma tissue based on
+the analysis of important features such as gray level co-occurrence of CT and MRI
+• Used 3D-slicer and pyradiomics analyze CT and MRI images
+
+
+
+
+
+
+
+
+

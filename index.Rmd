@@ -1,19 +1,26 @@
 ---
-title: "My awesome website"
+title: "My Personal Website"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This is Carmen's awesome website
+# This is Carmen's first personal website
 
-A brief introductory landing page
+Hi! I'm Ruwen Zhou, you can also call me Carmen!
+I'm a 21-year-old girl comes from Guangzhou, which is a city that famous for its delicious food and unsettled weather.
 
-## A page giving your academic and professional experience (i.e. a resume)
+I'm a freshman of Mailman School of Public Health, majoring in biostatistics.
+I graduated from NYU, but I'm new to this area since I studied mathematics and data science during undergraduate.
 
-[about me](about.html)
+My hobby is playing table tennis, watching films and most importantly, cooking!
 
 
-## Links in the site navigation for your GitHub account, your email, and other professional networks.
+## Academic and professional Experience
+
+[Resume](about.html)
+
+
+
 
