@@ -1,0 +1,19 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Carmen's awesome website
+
+A brief introductory landing page
+
+## A page giving your academic and professional experience (i.e. a resume)
+
+[about me](about.html)
+
+
+## Links in the site navigation for your GitHub account, your email, and other professional networks.
+
