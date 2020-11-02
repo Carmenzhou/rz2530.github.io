@@ -5,4 +5,62 @@ output:
     toc: true
     toc_float: true
 ---
-# example of plotly
+## load data
+
+```{r}
+library(tidyverse)
+library(dplyr)
+library(p8105.datasets)
+library(plotly)
+
+knitr::opts_chunk$set(
+	fig.width = 6, 
+  fig.asp = .6,
+  out.width = "90%"
+)
+theme_set(theme_minimal() + theme(legend.position = "bottom"))
+options(
+  ggplot2.continuous.colour = "viridis",
+  ggplot2.continuous.fill = "viridis"
+)
+scale_colour_discrete = scale_colour_viridis_d
+scale_fill_discrete = scale_fill_viridis_d
+```
+
+```{r}
+data("instacart")
+```
+
+```{r}
+instacart = 
+  instacart %>%
+  select(order_id, product_id, order_number, order_hour_of_day,product_name, department) %>% 
+  filter(product_id <= 10)
+instacart
+```
+## scartter plot
+```{r}
+instacart %>% 
+  plot_ly(x = ~product_name, y = ~order_hour_of_day, color = ~department,type = "scatter", mode = "markers")
+```
+
+## boxplot
+
+```{r}
+instacart %>% 
+  plot_ly(x = ~product_name, y = ~order_hour_of_day, color = ~department,type = "box", colors = "viridis")
+```
+
+## bar plot
+
+```{r}
+instacart %>% 
+  plot_ly(x = ~product_name, y = ~order_hour_of_day, color = ~department,type = "bar", colors = "viridis")
+```
+
+
+
+
+
+
+
