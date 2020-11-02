@@ -6,7 +6,6 @@ output:
     toc_float: true
 ---
 
-# This is Carmen's resume
 
 ## EDUCATION
 * Undergraduate: New York University Shanghai, Shanghai, China
@@ -14,12 +13,12 @@ Major: Mathematics and pursuing Data Science major
 Math Courses: complex variable, honor analysis, Discrete Mathematics, Networks and Dynamic, Mathematics of Finance, Numerical Analysis, mathematical modelling on stochastic processing and stochastic integral
 Data Science Courses: Data Structure, Econometrics, Databases, algorithm, machine learning
 
-*Master: Columbia University, New York, US
+* Master: Columbia University, New York, US
 Major: Biostatistics
 Courses: Data Science, Probability, Biostatistics Methods, Into to Epidemiology, Into to Public Health.
 
-##RESEARCH EXPERIENCE
-###Identifying five prime UTR from massive data
+## RESEARCH EXPERIENCE
+### Identifying five prime UTR from massive data
 Advisor: Zhenhai Zhang, professor at medical school, Southern Medical University
 
 * Developed a program to identify V gene and Leader gene to measure length of five prime UTR
@@ -27,7 +26,7 @@ Advisor: Zhenhai Zhang, professor at medical school, Southern Medical University
 * Analyzed more than 30,000 sequences, finding out the length of five prime UTR is in normal
 distribution.
 
-###Analyzing emotions in live comments
+### Analyzing emotions in live comments
 Advisor: Renyu Zhang, Assistant Professor of Operations Management, NYU Global Network
 
 * Applied Nature Language Processing (NLP) to analyze on-screen live comments on Bilibili (Chinese version of Twitch) to evaluate the audience's emotional responses.
@@ -36,13 +35,29 @@ Advisor: Renyu Zhang, Assistant Professor of Operations Management, NYU Global N
 emotional words based on repeated experiments.
 * Calculated the values of the emotional responses based on live comments as a description of audience's instantaneous reactions
 
-###Finding the area of para-carcinoma tissue
+### Finding the area of para-carcinoma tissue
 Advisor: Yanxin Luo, Professor at medical school, SYSU
 
 * Established a LASSO regression model to identify the area of para-carcinoma tissue based on
 the analysis of important features such as gray level co-occurrence of CT and MRI
 * Used 3D-slicer and pyradiomics analyze CT and MRI images
 
+## WORKING EXPERIENCE
+### Internship in Tencent AI Lab, Shenzhen, China
+* Applied 3D-resnet and MLP to build survival model to analyze and predict the survival periods of patients with colorectal cancer.
+
+### Learning Assistant for Calculus, Academic Resource Center, New York University SH
+
+* Organized pre-course review session with more than 60 students
+* Provided individual tutoring for 100 students.
+
+### Intern in Intestinal Cancer Research Laboratory, The sixth affiliated hospital of Sun Yat-Sen University
+* Collected and summarized experimental data.
+
+## SKILLS
+* CS programming: python, R, Matlab
+* English: TOEFL: reading 26, listening 28, speaking 23, writing 23
+GRE: quantitative 169, verbal 153, writing 3.5
 
 
 

@@ -8,6 +8,8 @@ output:
 
 # This is Carmen's first personal website
 
+![](https://media.giphy.com/media/l4HogOSqU3uupmvmg/giphy.gif)
+
 Hi! I'm Ruwen Zhou, you can also call me Carmen!
 I'm a 21-year-old girl comes from Guangzhou, which is a city that famous for its delicious food and unsettled weather.
 
@@ -17,7 +19,10 @@ I graduated from NYU, but I'm new to this area since I studied mathematics and d
 My hobby is playing table tennis, watching films and most importantly, cooking!
 
 
-## Academic and professional Experience
+
+## Academic and Professional Experience
+
+![](https://media.giphy.com/media/emHFjFhg9Ha0wQjihU/giphy.gif)
 
 [Resume](about.html)
 
